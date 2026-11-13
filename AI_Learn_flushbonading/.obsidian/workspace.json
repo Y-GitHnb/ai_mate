@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "987ef3f94982b7b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9655b2ed8ac6ad0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d85e65310af664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. 面试题与知识复盘/12.2 MCU底层与中断面试题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.2 MCU底层与中断面试题"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "414a2ed70665c581",
+    "type": "split",
+    "children": [
+      {
+        "id": "0145a1465e6449ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4457768bd2466da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a3258fa559c69d59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3c18bccf9a99b725",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27b339fd15d4641f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb411a8ab58637b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365ee7826b234d5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12. 面试题与知识复盘/12.2 MCU底层与中断面试题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "2f628acfc44d6d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12. 面试题与知识复盘/12.2 MCU底层与中断面试题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "eeb7f561553725fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7b8fd9407a7a56b4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "701b54878dd53276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12. 面试题与知识复盘/12.2 MCU底层与中断面试题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "30d85e65310af664",
+  "lastOpenFiles": [
+    "12. 面试题与知识复盘/12.3 STM32外设与DMA面试题.md",
+    "12. 面试题与知识复盘/12.4 FreeRTOS与并发设计面试题.md",
+    "12. 面试题与知识复盘/12.5 通信协议面试题.md",
+    "12. 面试题与知识复盘/12.6 硬件电路与PCB面试题.md",
+    "12. 面试题与知识复盘/12.7 项目难点、故障定位与设计追问.md",
+    "12. 面试题与知识复盘/12.8 错题整理与知识薄弱点.md",
+    "12. 面试题与知识复盘/12.2 MCU底层与中断面试题.md",
+    "12. 面试题与知识复盘/12.1 C语言高频面试题.md",
+    "11. 项目实战与实验记录/11.2 GPIO、中断与定时器实验.md",
+    "11. 项目实战与实验记录/11.3 UART异步接收和环形缓冲区.md",
+    "11. 项目实战与实验记录/11.4 FreeRTOS任务通信实验.md",
+    "11. 项目实战与实验记录/11.5 I2C传感器驱动与异常恢复.md",
+    "11. 项目实战与实验记录/11.6 低功耗与电流测量实验.md",
+    "11. 项目实战与实验记录/11.7 WiFi_MQTT通信实验.md",
+    "11. 项目实战与实验记录/11.8 可复用组件综合项目.md",
+    "11. 项目实战与实验记录/11.1 ESP-IDF Hello World及工程构建.md",
+    "10. 开发工具与工程管理/10.2 GCC编译流程与Make_CMake.md",
+    "10. 开发工具与工程管理/10.3 GDB、断点、Watchpoint与调用栈.md",
+    "10. 开发工具与工程管理/10.4 VS_Code、Keil、CubeMX及ESP-IDF工具链.md",
+    "10. 开发工具与工程管理/10.5 静态分析、编译告警、单元测试.md",
+    "10. 开发工具与工程管理/10.6 项目目录规范及技术文档管理.md",
+    "10. 开发工具与工程管理/10.1 Git分支、提交、合并、冲突.md",
+    "09. 系统可靠性与调试/9.3 内存越界、栈溢出与内存泄漏.md",
+    "09. 系统可靠性与调试/9.4 通信异常与总线故障排查.md",
+    "09. 系统可靠性与调试/9.5 低功耗测量与优化.md",
+    "09. 系统可靠性与调试/9.6 长时间运行与稳定性测试.md"
+  ]
+}
